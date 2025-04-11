@@ -1,0 +1,43 @@
+h1{
+color: rgb(29, 16, 216);
+position: relative;
+left: 100px;
+font-size: 50px;
+}
+h3{
+    position: relative;
+    left: 100px;
+}
+p{
+    position: relative;
+    left: 100px;
+    color: blueviolet;
+    font-size: 20px;
+}   
+#pId{
+    color: rgb(177, 115, 22);
+}
+#pId4{
+color: rgb(255, 9, 124);
+
+}
+#pId2{
+    color: rgb(255, 9, 124);
+    
+    }
+    #pId1{
+        color: rgb(108, 205, 244);
+        
+        }
+        #pId5{
+            color: rgb(108, 205, 244);
+            
+            }
+            #pId6{
+                color: rgb(108, 205, 244);
+                
+                }
+                #pId7{
+                    color: rgb(108, 205, 244);
+                    
+                    }
